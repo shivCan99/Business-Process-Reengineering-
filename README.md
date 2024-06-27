@@ -1,4 +1,4 @@
-# Medical Personal Cost Prediction🏥💊
+# Identifying Medical Personal Cost 🏥💊
 Predicting medical insurance cost with the help of **Machine Learning**
 
 ## About Project:
@@ -7,7 +7,7 @@ Predicting medical insurance cost with the help of **Machine Learning**
  From insurance data we can predict future charges of persons, and for predicting the charges of persons we need a strong Machine Learning model to predict charges with good accuracy.
  This ML model will help insurance company for gaining number of customers because of accurate charges people can protect themselves from insurance scams.
  
- <img src='https://github.com/karan842/Data-Science-Projects/blob/master/Medical%20Cost%20prediction/istockphoto-1262027789-170667a.jpg'></img>
+ [<img src='https://github.com/karan842/Data-Science-Projects/blob/master/Medical%20Cost%20prediction/istockphoto-1262027789-170667a.jpg'></img>](https://miro.medium.com/v2/resize:fit:1400/0*ssbGU5VIxtVB6NrF)
  
  ## Approach:
  
