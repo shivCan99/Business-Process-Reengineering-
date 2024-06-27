@@ -7,7 +7,7 @@ Predicting medical insurance cost with the help of **Machine Learning**
  From insurance data we can predict future charges of persons, and for predicting the charges of persons we need a strong Machine Learning model to predict charges with good accuracy.
  This ML model will help insurance company for gaining number of customers because of accurate charges people can protect themselves from insurance scams.
  
-https://miro.medium.com/v2/resize:fit:1400/0*ssbGU5VIxtVB6NrF
+![0_ssbGU5VIxtVB6NrF](https://github.com/shivCan99/Identifying-Medical-Cost/assets/107194536/e5e7e04d-e09c-4b02-a93c-7f0967581675)
  
  ## Approach:
  
